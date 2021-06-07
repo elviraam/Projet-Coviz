@@ -1,1 +1,4 @@
 # Projet Coviz
+# Analyse Palladio
+Palladio est un outil de datavisualition qui permet de visualiser des données de différentes façons. Il est possible de créer des cartes afin de voir les données sous forme de points. Les relations entre les points peuvent être reliées par des lignes, avec des sortes d’arc de lignes représentant le flux de la relation. Il est également possible de visualiser les relations entre deux dimensions des données. Les informations graphiques seront affichées sous forme de nœuds reliés par des lignes. L’affichage des liens et des étiquettes peut être activé ou désactivé.
+Nous avons testé l’outil avec des jeux de données en français comme exemple. Nous avons voulu tester plusieurs méthodes de visualisation dont celle-ci, afin de voir de quelle manière les données allaient être représentées sur le graphique.
